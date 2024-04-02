@@ -1,2 +1,2 @@
 # NetlistOrganiser
-Tool for reading and analysing Allegro type netlists (and older OrCAD)
+Windows Tool for reading and analysing Allegro type netlists (and older OrCAD).
